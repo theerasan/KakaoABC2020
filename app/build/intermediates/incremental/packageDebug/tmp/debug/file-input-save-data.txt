@@ -1,0 +1,7 @@
+#Internal package file, do not edit.
+#Sat Dec 19 00:49:23 ICT 2020
+0.baseType=DIRECTORY
+0.base=/Users/ta7/work/KakaoABC2020/app/build/intermediates/dex/debug/mergeDexDebug/out
+0.path=classes.dex
+0.set=DEX
+count=1

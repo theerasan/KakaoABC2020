@@ -1,0 +1,196 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/ta7/work/KakaoABC2020/app/src/main/AndroidManifest.xml:2:1-24:12
+INJECTED from /Users/ta7/work/KakaoABC2020/app/src/main/AndroidManifest.xml:2:1-24:12
+INJECTED from /Users/ta7/work/KakaoABC2020/app/src/main/AndroidManifest.xml:2:1-24:12
+INJECTED from /Users/ta7/work/KakaoABC2020/app/src/main/AndroidManifest.xml:2:1-24:12
+MERGED from [com.google.android.material:material:1.1.0-alpha06] /Users/ta7/.gradle/caches/transforms-1/files-1.1/material-1.1.0-alpha06.aar/5514c0cfe3abaf2ec11939305f937970/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /Users/ta7/.gradle/caches/transforms-1/files-1.1/legacy-support-v4-1.0.0.aar/2d5474cef2361262062894f3548995b6/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.volley:volley:1.1.1] /Users/ta7/.gradle/caches/transforms-1/files-1.1/volley-1.1.1.aar/7cf387e7e2a0e0e03e11ac72c1d427bc/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/ta7/.gradle/caches/transforms-1/files-1.1/cardview-1.0.0.aar/627a2a2fbf271aac34badfceb8ebedf1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0-alpha02] /Users/ta7/.gradle/caches/transforms-1/files-1.1/viewpager2-1.0.0-alpha02.aar/9ac9e5a1ceeb1403680aecdf206f987a/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.appcompat:appcompat:1.1.0-alpha03] /Users/ta7/.gradle/caches/transforms-1/files-1.1/appcompat-1.1.0-alpha03.aar/e948b3f16e31fa633d01907be4a160e6/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0-alpha03] /Users/ta7/.gradle/caches/transforms-1/files-1.1/appcompat-resources-1.1.0-alpha03.aar/d86a80ca1125ba37189425a9bab7959a/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /Users/ta7/.gradle/caches/transforms-1/files-1.1/vectordrawable-animated-1.0.0.aar/cd51eb30e7fdbc711782989386a54981/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/ta7/.gradle/caches/transforms-1/files-1.1/legacy-support-core-ui-1.0.0.aar/15719e119c88343ee840c85c101889fc/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0-alpha01] /Users/ta7/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-1.1.0-alpha01.aar/1cf296a111c7c6c5213bca7b8488e4c5/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/ta7/.gradle/caches/transforms-1/files-1.1/legacy-support-core-utils-1.0.0.aar/8cc1bedfc15dbfc46fe54c05a4a5da59/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.transition:transition:1.0.1] /Users/ta7/.gradle/caches/transforms-1/files-1.1/transition-1.0.1.aar/a7142811c2f2a8c28b85fdc64affea89/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0-alpha01] /Users/ta7/.gradle/caches/transforms-1/files-1.1/vectordrawable-1.1.0-alpha01.aar/75b70b29bc6ec1f887a5bc36766e292c/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.media:media:1.0.0] /Users/ta7/.gradle/caches/transforms-1/files-1.1/media-1.0.0.aar/7a0e5eac4170d592c1987084950a28ee/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/ta7/.gradle/caches/transforms-1/files-1.1/cursoradapter-1.0.0.aar/b40c4e4f354ea82ab54a5e9ea64c363d/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/ta7/.gradle/caches/transforms-1/files-1.1/drawerlayout-1.0.0.aar/1a9697df2464af8c71964abd2cae351b/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.fragment:fragment:1.1.0-alpha05] /Users/ta7/.gradle/caches/transforms-1/files-1.1/fragment-1.1.0-alpha05.aar/659b55fd8687042e68ab512ce0e8f62e/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/ta7/.gradle/caches/transforms-1/files-1.1/viewpager-1.0.0.aar/b3268b0a48d377ea9c6258d7a7edb003/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/ta7/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-1.0.0.aar/b6b0ee52cc318add29588281fdd6a6c1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0-alpha03] /Users/ta7/.gradle/caches/transforms-1/files-1.1/recyclerview-1.1.0-alpha03.aar/77fa9c86cad1db5e1927fa61fa139d7e/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] /Users/ta7/.gradle/caches/transforms-1/files-1.1/customview-1.0.0.aar/28aa1151a856faa7bd0072a92cdbe52b/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/ta7/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-1.0.0.aar/4e3f6a946b8a8ea433a38bcd95e1b325/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/ta7/.gradle/caches/transforms-1/files-1.1/interpolator-1.0.0.aar/c5a1816d64a94b9e7780308ab2ce7c7d/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/ta7/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-1.0.0.aar/b1f97e20bb93e18b6051f038c844900b/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/ta7/.gradle/caches/transforms-1/files-1.1/documentfile-1.0.0.aar/363ede7674e057e95ba3290338faa1c5/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /Users/ta7/.gradle/caches/transforms-1/files-1.1/loader-1.0.0.aar/630a6f05dab402192d32f8fd386a6f8b/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/ta7/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-1.0.0.aar/cbe1d4d3029f7b8c67b17e26b967aa7a/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] /Users/ta7/.gradle/caches/transforms-1/files-1.1/print-1.0.0.aar/19a6964a3d2bc0fead6e4d8990bee698/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.0.0-alpha05] /Users/ta7/.gradle/caches/transforms-1/files-1.1/activity-1.0.0-alpha05.aar/edf8e7c89dd9d142176cf8dd52b24962/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.1.0-alpha05] /Users/ta7/.gradle/caches/transforms-1/files-1.1/core-1.1.0-alpha05.aar/9856d992298c813fddae7925feea781b/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0-alpha02] /Users/ta7/.gradle/caches/transforms-1/files-1.1/versionedparcelable-1.1.0-alpha02.aar/ee885af5a693ba57621af85641165276/AndroidManifest.xml:17:1-25:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/ta7/.gradle/caches/transforms-1/files-1.1/lifecycle-livedata-2.0.0.aar/19656c83aa935754a25d25fb9b2cd324/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/ta7/.gradle/caches/transforms-1/files-1.1/lifecycle-livedata-core-2.0.0.aar/218229280f0e39bd3bf5fd48a3aa7137/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/ta7/.gradle/caches/transforms-1/files-1.1/core-runtime-2.0.0.aar/772c87ceba28dc41b0e8aad1d140cae8/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0-alpha03] /Users/ta7/.gradle/caches/transforms-1/files-1.1/lifecycle-runtime-2.1.0-alpha03.aar/fadc43e43db385c99e970ae0696649f6/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate:1.0.0-alpha02] /Users/ta7/.gradle/caches/transforms-1/files-1.1/savedstate-1.0.0-alpha02.aar/d31852f3cbe2b251c25d6f0e0a6e7e42/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0-alpha03] /Users/ta7/.gradle/caches/transforms-1/files-1.1/lifecycle-viewmodel-2.1.0-alpha03.aar/c4b35c50040f4b9fe65360fdd5935aa4/AndroidManifest.xml:17:1-22:12
+INJECTED from /Users/ta7/work/KakaoABC2020/app/src/main/AndroidManifest.xml:2:1-24:12
+INJECTED from /Users/ta7/work/KakaoABC2020/app/src/main/AndroidManifest.xml:2:1-24:12
+INJECTED from /Users/ta7/work/KakaoABC2020/app/src/main/AndroidManifest.xml:2:1-24:12
+	package
+		ADDED from /Users/ta7/work/KakaoABC2020/app/src/main/AndroidManifest.xml:3:5-52
+		INJECTED from /Users/ta7/work/KakaoABC2020/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/ta7/work/KakaoABC2020/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/ta7/work/KakaoABC2020/app/src/main/AndroidManifest.xml
+		ADDED from /Users/ta7/work/KakaoABC2020/app/src/main/AndroidManifest.xml:2:1-24:12
+		INJECTED from /Users/ta7/work/KakaoABC2020/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/ta7/work/KakaoABC2020/app/src/main/AndroidManifest.xml
+		ADDED from /Users/ta7/work/KakaoABC2020/app/src/main/AndroidManifest.xml:2:1-24:12
+		INJECTED from /Users/ta7/work/KakaoABC2020/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/ta7/work/KakaoABC2020/app/src/main/AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /Users/ta7/work/KakaoABC2020/app/src/main/AndroidManifest.xml:5:5-67
+	android:name
+		ADDED from /Users/ta7/work/KakaoABC2020/app/src/main/AndroidManifest.xml:5:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from /Users/ta7/work/KakaoABC2020/app/src/main/AndroidManifest.xml:6:5-79
+	android:name
+		ADDED from /Users/ta7/work/KakaoABC2020/app/src/main/AndroidManifest.xml:6:22-76
+application
+ADDED from /Users/ta7/work/KakaoABC2020/app/src/main/AndroidManifest.xml:8:5-23:19
+MERGED from [com.google.android.material:material:1.1.0-alpha06] /Users/ta7/.gradle/caches/transforms-1/files-1.1/material-1.1.0-alpha06.aar/5514c0cfe3abaf2ec11939305f937970/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.1.0-alpha06] /Users/ta7/.gradle/caches/transforms-1/files-1.1/material-1.1.0-alpha06.aar/5514c0cfe3abaf2ec11939305f937970/AndroidManifest.xml:22:5-20
+MERGED from [com.android.volley:volley:1.1.1] /Users/ta7/.gradle/caches/transforms-1/files-1.1/volley-1.1.1.aar/7cf387e7e2a0e0e03e11ac72c1d427bc/AndroidManifest.xml:9:5-20
+MERGED from [com.android.volley:volley:1.1.1] /Users/ta7/.gradle/caches/transforms-1/files-1.1/volley-1.1.1.aar/7cf387e7e2a0e0e03e11ac72c1d427bc/AndroidManifest.xml:9:5-20
+MERGED from [androidx.core:core:1.1.0-alpha05] /Users/ta7/.gradle/caches/transforms-1/files-1.1/core-1.1.0-alpha05.aar/9856d992298c813fddae7925feea781b/AndroidManifest.xml:22:5-89
+MERGED from [androidx.core:core:1.1.0-alpha05] /Users/ta7/.gradle/caches/transforms-1/files-1.1/core-1.1.0-alpha05.aar/9856d992298c813fddae7925feea781b/AndroidManifest.xml:22:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0-alpha02] /Users/ta7/.gradle/caches/transforms-1/files-1.1/versionedparcelable-1.1.0-alpha02.aar/ee885af5a693ba57621af85641165276/AndroidManifest.xml:22:5-23:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0-alpha02] /Users/ta7/.gradle/caches/transforms-1/files-1.1/versionedparcelable-1.1.0-alpha02.aar/ee885af5a693ba57621af85641165276/AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.1.0-alpha05] /Users/ta7/.gradle/caches/transforms-1/files-1.1/core-1.1.0-alpha05.aar/9856d992298c813fddae7925feea781b/AndroidManifest.xml:22:18-86
+	android:supportsRtl
+		ADDED from /Users/ta7/work/KakaoABC2020/app/src/main/AndroidManifest.xml:13:9-35
+	android:label
+		ADDED from /Users/ta7/work/KakaoABC2020/app/src/main/AndroidManifest.xml:11:9-45
+	android:roundIcon
+		ADDED from /Users/ta7/work/KakaoABC2020/app/src/main/AndroidManifest.xml:12:9-54
+	android:icon
+		ADDED from /Users/ta7/work/KakaoABC2020/app/src/main/AndroidManifest.xml:10:9-43
+	android:allowBackup
+		ADDED from /Users/ta7/work/KakaoABC2020/app/src/main/AndroidManifest.xml:9:9-35
+	android:theme
+		ADDED from /Users/ta7/work/KakaoABC2020/app/src/main/AndroidManifest.xml:15:9-44
+	android:name
+		ADDED from /Users/ta7/work/KakaoABC2020/app/src/main/AndroidManifest.xml:14:9-91
+activity#com.google.codelabs.mdc.kotlin.shrine.MainActivity
+ADDED from /Users/ta7/work/KakaoABC2020/app/src/main/AndroidManifest.xml:16:9-22:20
+	android:name
+		ADDED from /Users/ta7/work/KakaoABC2020/app/src/main/AndroidManifest.xml:16:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/ta7/work/KakaoABC2020/app/src/main/AndroidManifest.xml:17:13-21:29
+action#android.intent.action.MAIN
+ADDED from /Users/ta7/work/KakaoABC2020/app/src/main/AndroidManifest.xml:18:17-69
+	android:name
+		ADDED from /Users/ta7/work/KakaoABC2020/app/src/main/AndroidManifest.xml:18:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/ta7/work/KakaoABC2020/app/src/main/AndroidManifest.xml:20:17-77
+	android:name
+		ADDED from /Users/ta7/work/KakaoABC2020/app/src/main/AndroidManifest.xml:20:27-74
+uses-sdk
+INJECTED from /Users/ta7/work/KakaoABC2020/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/ta7/work/KakaoABC2020/app/src/main/AndroidManifest.xml
+INJECTED from /Users/ta7/work/KakaoABC2020/app/src/main/AndroidManifest.xml
+MERGED from [com.google.android.material:material:1.1.0-alpha06] /Users/ta7/.gradle/caches/transforms-1/files-1.1/material-1.1.0-alpha06.aar/5514c0cfe3abaf2ec11939305f937970/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.1.0-alpha06] /Users/ta7/.gradle/caches/transforms-1/files-1.1/material-1.1.0-alpha06.aar/5514c0cfe3abaf2ec11939305f937970/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /Users/ta7/.gradle/caches/transforms-1/files-1.1/legacy-support-v4-1.0.0.aar/2d5474cef2361262062894f3548995b6/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /Users/ta7/.gradle/caches/transforms-1/files-1.1/legacy-support-v4-1.0.0.aar/2d5474cef2361262062894f3548995b6/AndroidManifest.xml:20:5-44
+MERGED from [com.android.volley:volley:1.1.1] /Users/ta7/.gradle/caches/transforms-1/files-1.1/volley-1.1.1.aar/7cf387e7e2a0e0e03e11ac72c1d427bc/AndroidManifest.xml:7:5-43
+MERGED from [com.android.volley:volley:1.1.1] /Users/ta7/.gradle/caches/transforms-1/files-1.1/volley-1.1.1.aar/7cf387e7e2a0e0e03e11ac72c1d427bc/AndroidManifest.xml:7:5-43
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/ta7/.gradle/caches/transforms-1/files-1.1/cardview-1.0.0.aar/627a2a2fbf271aac34badfceb8ebedf1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/ta7/.gradle/caches/transforms-1/files-1.1/cardview-1.0.0.aar/627a2a2fbf271aac34badfceb8ebedf1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager2:viewpager2:1.0.0-alpha02] /Users/ta7/.gradle/caches/transforms-1/files-1.1/viewpager2-1.0.0-alpha02.aar/9ac9e5a1ceeb1403680aecdf206f987a/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager2:viewpager2:1.0.0-alpha02] /Users/ta7/.gradle/caches/transforms-1/files-1.1/viewpager2-1.0.0-alpha02.aar/9ac9e5a1ceeb1403680aecdf206f987a/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.1.0-alpha03] /Users/ta7/.gradle/caches/transforms-1/files-1.1/appcompat-1.1.0-alpha03.aar/e948b3f16e31fa633d01907be4a160e6/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.1.0-alpha03] /Users/ta7/.gradle/caches/transforms-1/files-1.1/appcompat-1.1.0-alpha03.aar/e948b3f16e31fa633d01907be4a160e6/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0-alpha03] /Users/ta7/.gradle/caches/transforms-1/files-1.1/appcompat-resources-1.1.0-alpha03.aar/d86a80ca1125ba37189425a9bab7959a/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0-alpha03] /Users/ta7/.gradle/caches/transforms-1/files-1.1/appcompat-resources-1.1.0-alpha03.aar/d86a80ca1125ba37189425a9bab7959a/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /Users/ta7/.gradle/caches/transforms-1/files-1.1/vectordrawable-animated-1.0.0.aar/cd51eb30e7fdbc711782989386a54981/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /Users/ta7/.gradle/caches/transforms-1/files-1.1/vectordrawable-animated-1.0.0.aar/cd51eb30e7fdbc711782989386a54981/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/ta7/.gradle/caches/transforms-1/files-1.1/legacy-support-core-ui-1.0.0.aar/15719e119c88343ee840c85c101889fc/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/ta7/.gradle/caches/transforms-1/files-1.1/legacy-support-core-ui-1.0.0.aar/15719e119c88343ee840c85c101889fc/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0-alpha01] /Users/ta7/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-1.1.0-alpha01.aar/1cf296a111c7c6c5213bca7b8488e4c5/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0-alpha01] /Users/ta7/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-1.1.0-alpha01.aar/1cf296a111c7c6c5213bca7b8488e4c5/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/ta7/.gradle/caches/transforms-1/files-1.1/legacy-support-core-utils-1.0.0.aar/8cc1bedfc15dbfc46fe54c05a4a5da59/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/ta7/.gradle/caches/transforms-1/files-1.1/legacy-support-core-utils-1.0.0.aar/8cc1bedfc15dbfc46fe54c05a4a5da59/AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.0.1] /Users/ta7/.gradle/caches/transforms-1/files-1.1/transition-1.0.1.aar/a7142811c2f2a8c28b85fdc64affea89/AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.0.1] /Users/ta7/.gradle/caches/transforms-1/files-1.1/transition-1.0.1.aar/a7142811c2f2a8c28b85fdc64affea89/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0-alpha01] /Users/ta7/.gradle/caches/transforms-1/files-1.1/vectordrawable-1.1.0-alpha01.aar/75b70b29bc6ec1f887a5bc36766e292c/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0-alpha01] /Users/ta7/.gradle/caches/transforms-1/files-1.1/vectordrawable-1.1.0-alpha01.aar/75b70b29bc6ec1f887a5bc36766e292c/AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] /Users/ta7/.gradle/caches/transforms-1/files-1.1/media-1.0.0.aar/7a0e5eac4170d592c1987084950a28ee/AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] /Users/ta7/.gradle/caches/transforms-1/files-1.1/media-1.0.0.aar/7a0e5eac4170d592c1987084950a28ee/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/ta7/.gradle/caches/transforms-1/files-1.1/cursoradapter-1.0.0.aar/b40c4e4f354ea82ab54a5e9ea64c363d/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/ta7/.gradle/caches/transforms-1/files-1.1/cursoradapter-1.0.0.aar/b40c4e4f354ea82ab54a5e9ea64c363d/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/ta7/.gradle/caches/transforms-1/files-1.1/drawerlayout-1.0.0.aar/1a9697df2464af8c71964abd2cae351b/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/ta7/.gradle/caches/transforms-1/files-1.1/drawerlayout-1.0.0.aar/1a9697df2464af8c71964abd2cae351b/AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.1.0-alpha05] /Users/ta7/.gradle/caches/transforms-1/files-1.1/fragment-1.1.0-alpha05.aar/659b55fd8687042e68ab512ce0e8f62e/AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.1.0-alpha05] /Users/ta7/.gradle/caches/transforms-1/files-1.1/fragment-1.1.0-alpha05.aar/659b55fd8687042e68ab512ce0e8f62e/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/ta7/.gradle/caches/transforms-1/files-1.1/viewpager-1.0.0.aar/b3268b0a48d377ea9c6258d7a7edb003/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/ta7/.gradle/caches/transforms-1/files-1.1/viewpager-1.0.0.aar/b3268b0a48d377ea9c6258d7a7edb003/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/ta7/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-1.0.0.aar/b6b0ee52cc318add29588281fdd6a6c1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/ta7/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-1.0.0.aar/b6b0ee52cc318add29588281fdd6a6c1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.1.0-alpha03] /Users/ta7/.gradle/caches/transforms-1/files-1.1/recyclerview-1.1.0-alpha03.aar/77fa9c86cad1db5e1927fa61fa139d7e/AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.1.0-alpha03] /Users/ta7/.gradle/caches/transforms-1/files-1.1/recyclerview-1.1.0-alpha03.aar/77fa9c86cad1db5e1927fa61fa139d7e/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/ta7/.gradle/caches/transforms-1/files-1.1/customview-1.0.0.aar/28aa1151a856faa7bd0072a92cdbe52b/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/ta7/.gradle/caches/transforms-1/files-1.1/customview-1.0.0.aar/28aa1151a856faa7bd0072a92cdbe52b/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/ta7/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-1.0.0.aar/4e3f6a946b8a8ea433a38bcd95e1b325/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/ta7/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-1.0.0.aar/4e3f6a946b8a8ea433a38bcd95e1b325/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/ta7/.gradle/caches/transforms-1/files-1.1/interpolator-1.0.0.aar/c5a1816d64a94b9e7780308ab2ce7c7d/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/ta7/.gradle/caches/transforms-1/files-1.1/interpolator-1.0.0.aar/c5a1816d64a94b9e7780308ab2ce7c7d/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/ta7/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-1.0.0.aar/b1f97e20bb93e18b6051f038c844900b/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/ta7/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-1.0.0.aar/b1f97e20bb93e18b6051f038c844900b/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/ta7/.gradle/caches/transforms-1/files-1.1/documentfile-1.0.0.aar/363ede7674e057e95ba3290338faa1c5/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/ta7/.gradle/caches/transforms-1/files-1.1/documentfile-1.0.0.aar/363ede7674e057e95ba3290338faa1c5/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/ta7/.gradle/caches/transforms-1/files-1.1/loader-1.0.0.aar/630a6f05dab402192d32f8fd386a6f8b/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/ta7/.gradle/caches/transforms-1/files-1.1/loader-1.0.0.aar/630a6f05dab402192d32f8fd386a6f8b/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/ta7/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-1.0.0.aar/cbe1d4d3029f7b8c67b17e26b967aa7a/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/ta7/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-1.0.0.aar/cbe1d4d3029f7b8c67b17e26b967aa7a/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/ta7/.gradle/caches/transforms-1/files-1.1/print-1.0.0.aar/19a6964a3d2bc0fead6e4d8990bee698/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/ta7/.gradle/caches/transforms-1/files-1.1/print-1.0.0.aar/19a6964a3d2bc0fead6e4d8990bee698/AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.0.0-alpha05] /Users/ta7/.gradle/caches/transforms-1/files-1.1/activity-1.0.0-alpha05.aar/edf8e7c89dd9d142176cf8dd52b24962/AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.0.0-alpha05] /Users/ta7/.gradle/caches/transforms-1/files-1.1/activity-1.0.0-alpha05.aar/edf8e7c89dd9d142176cf8dd52b24962/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.1.0-alpha05] /Users/ta7/.gradle/caches/transforms-1/files-1.1/core-1.1.0-alpha05.aar/9856d992298c813fddae7925feea781b/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.1.0-alpha05] /Users/ta7/.gradle/caches/transforms-1/files-1.1/core-1.1.0-alpha05.aar/9856d992298c813fddae7925feea781b/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0-alpha02] /Users/ta7/.gradle/caches/transforms-1/files-1.1/versionedparcelable-1.1.0-alpha02.aar/ee885af5a693ba57621af85641165276/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0-alpha02] /Users/ta7/.gradle/caches/transforms-1/files-1.1/versionedparcelable-1.1.0-alpha02.aar/ee885af5a693ba57621af85641165276/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/ta7/.gradle/caches/transforms-1/files-1.1/lifecycle-livedata-2.0.0.aar/19656c83aa935754a25d25fb9b2cd324/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/ta7/.gradle/caches/transforms-1/files-1.1/lifecycle-livedata-2.0.0.aar/19656c83aa935754a25d25fb9b2cd324/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/ta7/.gradle/caches/transforms-1/files-1.1/lifecycle-livedata-core-2.0.0.aar/218229280f0e39bd3bf5fd48a3aa7137/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/ta7/.gradle/caches/transforms-1/files-1.1/lifecycle-livedata-core-2.0.0.aar/218229280f0e39bd3bf5fd48a3aa7137/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/ta7/.gradle/caches/transforms-1/files-1.1/core-runtime-2.0.0.aar/772c87ceba28dc41b0e8aad1d140cae8/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/ta7/.gradle/caches/transforms-1/files-1.1/core-runtime-2.0.0.aar/772c87ceba28dc41b0e8aad1d140cae8/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0-alpha03] /Users/ta7/.gradle/caches/transforms-1/files-1.1/lifecycle-runtime-2.1.0-alpha03.aar/fadc43e43db385c99e970ae0696649f6/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0-alpha03] /Users/ta7/.gradle/caches/transforms-1/files-1.1/lifecycle-runtime-2.1.0-alpha03.aar/fadc43e43db385c99e970ae0696649f6/AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.0.0-alpha02] /Users/ta7/.gradle/caches/transforms-1/files-1.1/savedstate-1.0.0-alpha02.aar/d31852f3cbe2b251c25d6f0e0a6e7e42/AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.0.0-alpha02] /Users/ta7/.gradle/caches/transforms-1/files-1.1/savedstate-1.0.0-alpha02.aar/d31852f3cbe2b251c25d6f0e0a6e7e42/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0-alpha03] /Users/ta7/.gradle/caches/transforms-1/files-1.1/lifecycle-viewmodel-2.1.0-alpha03.aar/c4b35c50040f4b9fe65360fdd5935aa4/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0-alpha03] /Users/ta7/.gradle/caches/transforms-1/files-1.1/lifecycle-viewmodel-2.1.0-alpha03.aar/c4b35c50040f4b9fe65360fdd5935aa4/AndroidManifest.xml:20:5-44
+INJECTED from /Users/ta7/work/KakaoABC2020/app/src/main/AndroidManifest.xml
+INJECTED from /Users/ta7/work/KakaoABC2020/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/ta7/work/KakaoABC2020/app/src/main/AndroidManifest.xml
+		ADDED from /Users/ta7/work/KakaoABC2020/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/ta7/work/KakaoABC2020/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/ta7/work/KakaoABC2020/app/src/main/AndroidManifest.xml
+		ADDED from /Users/ta7/work/KakaoABC2020/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/ta7/work/KakaoABC2020/app/src/main/AndroidManifest.xml
